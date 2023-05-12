@@ -6,6 +6,9 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
 
+Recurrent neural networks (RNNs) are a class of neural network that are helpful in modeling sequence data. Derived from feedforward networks, RNNs exhibit similar behavior to how human brains function.
+Recurrent Neural Networks enable you to model time-dependent and sequential data problems, such as stock market prediction, machine translation, and text generation. You will find, however, RNN is hard to train because of the gradient problem. 
+
 ## Neural Network Model
 
 ![DL PIC 1](https://github.com/priya672003/rnn-stock-price-prediction/assets/81132849/e72fe878-9216-4b58-a8f0-33bf82aa0e67)
